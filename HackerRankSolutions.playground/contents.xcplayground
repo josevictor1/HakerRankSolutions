@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Turnstile'/>
+        <page name='SupermarketPriceInversion'/>
+        <page name='NearlySimilarRectangles'/>
+        <page name='HourglassSum'/>
+        <page name='DynamicArray'/>
+        <page name='LeftRotation'/>
+        <page name='SparseArrays'/>
+        <page name='ArrayManipulation'/>
+        <page name='New Year Chaos'/>
+        <page name='Minimum Swaps 2'/>
+    </pages>
+</playground>
